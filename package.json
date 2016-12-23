@@ -1,0 +1,14 @@
+{
+  "name": "authorized-personnel-only", 
+  "description": "A library for defining and checking permissions",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/mkretschek/authorized-personnel-only.git",
+    "type": "git"
+  },
+  "engines": {
+    "node": ">=6.9"
+  },
+  "author": "Mathias Kretschek <mathias@kretschek.com.br>",
+  "license": "MIT"
+}
